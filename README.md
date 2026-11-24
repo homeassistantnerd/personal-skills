@@ -9,6 +9,7 @@ Each skill lives in its own folder under [`skills/`](./skills) using the standar
 | Skill | What It Does | Path |
 | :--- | :--- | :--- |
 | [`fill-web-form`](./skills/fill-web-form/SKILL.md) | Scrape, answer, and fill web forms (Google Forms, Microsoft Forms, Typeform, etc.) via a two-phase browser workflow while leaving unknown or personal fields blank or asking the user first. | [`skills/fill-web-form/`](./skills/fill-web-form/SKILL.md) |
+| [`obs-transcribe`](./skills/obs-transcribe/SKILL.md) | Extract & compress speech audio (<200MB) from large OBS recordings and transcribe in Vietnamese using Groq Whisper Large v3 for Google NotebookLM (imported from [`obs-to-transcript-skill`](https://github.com/homeassistantnerd/obs-to-transcript-skill)). | [`skills/obs-transcribe/`](./skills/obs-transcribe/SKILL.md) |
 
 ---
 
